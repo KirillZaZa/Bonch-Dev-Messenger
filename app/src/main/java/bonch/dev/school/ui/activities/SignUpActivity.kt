@@ -18,7 +18,7 @@ class SignUpActivity: AppCompatActivity() {
     }
 
     private fun initializeViews(){
-        signUpButton = findViewById(R.id.sign_up_button)
+        signUpButton = findViewById(R.id.complete_sign_up_button)
     }
 
     private fun setListeners(){
